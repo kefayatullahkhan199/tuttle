@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
                    crossAxisAlignment: CrossAxisAlignment.start,
                    mainAxisAlignment: MainAxisAlignment.start,
                    children: [
-                      CustomText(fontSize: 20, text: 'Get Started', fontWeight: FontWeight.w600, fontFamily: 'fonts/inter_Regular.ttf'),
+                      CustomText(fontSize: 20, text: 'Get Started now', fontWeight: FontWeight.w600, fontFamily: 'fonts/inter_Regular.ttf'),
                      CustomText(fontSize: 14, text: 'Select your role below to continue', fontWeight: FontWeight.w400, fontFamily: 'fonts/inter_Regular.ttf'),
                      SizedBox(height: 12,),
                      CustomButton(text: 'Employee', height: 48, width: 309, containerColor: Colors.white, textColor: AppColors.blueBorderColor,borderColor: AppColors.blueBorderColor),

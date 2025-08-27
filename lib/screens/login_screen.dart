@@ -37,7 +37,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       borderRadius: BorderRadius.circular(12)),
                   child: Image(
                     image: AssetImage('assets/arrow_icon.png'),
-                    height: 20,
+                    height: 18,
                     width: 18,
                   ),
                 ),
